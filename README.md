@@ -1,0 +1,1 @@
+This plugin is not designed for use on any other site than discourseleague.com. Use at your own risk.

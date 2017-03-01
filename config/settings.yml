@@ -1,0 +1,4 @@
+plugins:
+  dl_customizations_enabled:
+    default: true
+    client: true
